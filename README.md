@@ -5,7 +5,6 @@ I’m a project director and software engineer with over 15 years of experience 
 ## 💻 Technologies & Tools
 
 - HTML5 | CSS3 | JavaScript (ES6+) | PHP | MySQL | NuxtJS | TailwindCSS | GSAP | Vue.js | 11ty
-- Certified Scrum Master | Scrum Product Owner
 - Certifications: [Vue.js Certified](https://certificates.dev/vuejs/certificates/9c5c946e-03d1-4b46-a951-ad5b61770de0) | [Certified Scrum Master](https://www.credly.com/badges/6d890ee4-0b7e-4551-b036-cfa7f9ae6fe3) | [Scrum Product Owner](https://www.credly.com/badges/ee8126dc-e6c5-4028-89f9-c3f8d0a8e830)
 
 ## 🚀 Recent Projects
