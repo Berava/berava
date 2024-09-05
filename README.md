@@ -11,10 +11,15 @@ I’m a project director and software engineer with over 15 years of experience 
 
 ## 🚀 Recent Projects
 
-- **[BPCE Project](#)**: Led the development of a large-scale web solution for BPCE (1200 man-days)  
-  *Technologies: AngularJS, TypeScript*
-  
-- **[Eco-friendly NGO Website](#)**: Developed an energy-efficient website for an NGO using NuxtJS and 11ty, reducing the digital carbon footprint.
+You can explore my portfolio and recent projects in detail on my [personal website](https://berava.netlify.app/).
+
+Some highlights include:
+- **CIRCEO Project**: Led the development of a large-scale web solution for CIRCEO.
+- **Eco-friendly Websites**: Developed multiple energy-efficient websites using NuxtJS and 11ty, helping various organizations reduce their digital carbon footprint.
+
+
+For more examples of my work, visit my portfolio [here](https://berava.netlify.app/).
+
 
 ## 📊 GitHub Stats
 
