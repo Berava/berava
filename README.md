@@ -19,6 +19,10 @@ Some highlights include:
 
 For more examples of my work, visit my portfolio [here](https://berava.netlify.app/).
 
+## Professional Goals 🌱
+Innovation & Sustainability: Focused on driving innovation in software engineering, particularly in projects that promote sustainable digital practices and leverage my leadership experience to deliver impactful, eco-friendly tech solutions.
+Continuous Improvement: Dedicated to staying at the forefront of technological advancements by continually refining my skills in modern frameworks and methodologies, while also fostering the growth of teams and individuals I work with. 📈
+
 
 ## 📊 GitHub Stats
 
