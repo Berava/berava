@@ -14,7 +14,6 @@ I’m a project director and software engineer with over 15 years of experience 
 You can explore my portfolio and recent projects in detail on my [personal website](https://berava.netlify.app/).
 
 Some highlights include:
-- **CIRCEO Project**: Led the development of a large-scale web solution for CIRCEO.
 - **Eco-friendly Websites**: Developed multiple energy-efficient websites using NuxtJS and 11ty, helping various organizations reduce their digital carbon footprint.
 
 
