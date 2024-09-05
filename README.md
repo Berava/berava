@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi there, I'm Vincent Dellong
 
-<!--
-**Berava/berava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a project director and software engineer with over 15 years of experience in web development, project management, and technical leadership.
 
-Here are some ideas to get you started:
+## 💻 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML | CSS | JavaScript | PHP | MySQL | NuxtJS | TailwindCSS | GSAP
+- Certified Scrum Master | Scrum Product Owner
+- Certifications: [Vue.js Certified](https://certificates.dev/vuejs/certificates/9c5c946e-03d1-4b46-a951-ad5b61770de0)
+
+## 🚀 Recent Projects
+
+- **[BPCE Project](#)**: Led the development of a large-scale web solution for BPCE (1200 man-days)  
+  *Technologies: AngularJS, TypeScript*
+  
+- **[Eco-friendly NGO Website](#)**: Developed an energy-efficient website for an NGO using NuxtJS and 11ty, reducing the digital carbon footprint.
+
+## 📊 GitHub Stats
+
+![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=berava&show_icons=true&theme=radical)
+
+
